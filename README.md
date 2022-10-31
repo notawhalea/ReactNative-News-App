@@ -3,10 +3,8 @@
 React Native application to scrolling news articles:fire:
 
 It's my *solution* of these task. Here i learn and gained experience in working with React Native:blue_heart:
-
-**What I've done**:question:
 **********
-**What i learned here**:grey_question:
+**What I've done**:question:
 
 1. Create a mobile application on Android / iOS
 2. Run the application on a real device / emulator
