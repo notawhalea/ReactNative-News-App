@@ -17,6 +17,10 @@ It's my *solution* of these task. Here i learn and gained experience in working 
 9. Render a List of Records
 10. Work with the styled-components library
 **********
+**How does it look like**
+
+<img src="assets/howitlooklike.gif" width="500" height="800"/>
+
 I just relax and gained experience here.:metal:
 
 Still in progress? Convert to draft!:wink:
